@@ -7,7 +7,7 @@ Instagram doesn't make it easy to get an access token for simple client-side API
 
 ##Register your client
 
-**Register a client** at [instagram's developer center](http://instagram.com/developer]. You'll need to provide a **website URL** and a **redirect URI**, which can be the same thing for all intensive purposes. You'll be given a **client id** and a **client secret**, which you'll use in the next steps. 
+**Register a client** at [instagram's developer center](http://instagram.com/developer). You'll need to provide a **website URL** and a **redirect URI**, which can be the same thing for all intensive purposes. You'll be given a **client id** and a **client secret**, which you'll use in the next steps. 
 
 ##Obtain code key
 
