@@ -30,4 +30,5 @@ curl -F 'client_id=[clientID]' -F 'client_secret=[clientSecret]' -F 'grant_type=
 In your response, you'll see `{"access_token":"[YOUR ACCESS TOKEN]","user":{ ...` where YOUR ACCESS TOKEN is what you'll need in retrieving JSON information form Instagram's API to use in your website. 
 
 ##Enjoy!
- 
+
+Take a look at the [example ajax request](http://github.com/svmatthews/instagram-access-token-generation/master/example) to see how to use your client keys and access tokens for simple user calls. 
