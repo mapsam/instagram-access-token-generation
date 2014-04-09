@@ -31,4 +31,4 @@ In your response, you'll see `{"access_token":"[YOUR ACCESS TOKEN]","user":{ ...
 
 ##Enjoy!
 
-Take a look at the [example ajax request](http://github.com/svmatthews/instagram-access-token-generation/master/example) to see how to use your client keys and access tokens for simple user calls. 
+Take a look at the [example ajax request](https://github.com/svmatthews/instagram-access-token-generation/tree/master/example) to see how to use your client keys and access tokens for simple user calls. 
